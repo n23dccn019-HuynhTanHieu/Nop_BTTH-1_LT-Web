@@ -5,7 +5,7 @@ function App() {
     { id: 1, name: "OPPO Reno15 F 5G", price: "11.690.000đ", img: "/images/sp1.webp" },
     { id: 2, name: "OPPO A6 Pro", price: "7.590.000đ", img: "/images/sp2.webp" },
     { id: 3, name: "OPPO A5i", price: "3.690.000đ", img: "/images/sp3.webp" },
-    { id: 4, name: "OPPO Find X9 Pro", price: "22.990.000đ", img: "public/images/sp4.webp" },
+    { id: 4, name: "OPPO Find X9 Pro", price: "22.990.000đ", img: "images/sp4.webp" },
   ];
 
   return (
